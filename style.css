@@ -1,0 +1,186 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.tovar {
+  display: flex;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.Oil {
+  text-align: center;
+  margin-right: 40px;
+}
+
+.Tires {
+  text-align: center;
+  margin-right: 40px;
+  margin-right: 40px;
+}
+.Care {
+  text-align: center;
+  margin-right: 40px;
+  margin-right: 40px;
+}
+.Accessories {
+  text-align: center;
+  margin-right: 40px;
+}
+
+.katalog {
+  display: inline-block;
+}
+.product1-1 {
+  border-bottom: 5px solid blue;
+  border-top: 5px dotted blue;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+.product1-2 {
+  border-bottom: 5px solid blue;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+.product1-3 {
+  border-bottom: 5px solid blue;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+.product1-4 {
+  border-bottom: 5px solid blue;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+.product1-5 {
+  border-bottom: 5px solid blue;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+
+.product2-1 {
+  border-bottom: 5px solid blue;
+  border-top: 5px dotted blue;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+.product2-2 {
+  border-bottom: 5px solid blue;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+.product2-3 {
+  border-bottom: 5px solid blue;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+.product2-4 {
+  border-bottom: 5px solid blue;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+.product2-5 {
+  border-bottom: 5px solid blue;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+.product2-6 {
+  border-bottom: 5px solid blue;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+
+.product3-1 {
+  border-bottom: 5px solid blue;
+  border-top: 5px dotted blue;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+.product3-2 {
+  border-bottom: 5px solid blue;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+.product3-3 {
+  border-bottom: 5px solid blue;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+.product3-4 {
+  border-bottom: 5px solid blue;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+
+.product4-1 {
+  border-bottom: 5px solid blue;
+  border-top: 5px dotted blue;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+.product4-2 {
+  border-bottom: 5px solid blue;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+.product4-3 {
+  border-bottom: 5px solid blue;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+.product4-4 {
+  border-bottom: 5px solid blue;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+
+.content {
+  flex-grow: 1;
+}
+
+.footer {
+  background-color: blue;
+  height: 50px;
+  padding-left: 10px;
+  display: flex;
+  justify-content: center;
+}
